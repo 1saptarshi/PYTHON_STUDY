@@ -15,8 +15,7 @@ Welcome to the **Python Study & Practice** repository! This repo is designed for
 
 ## 🚀 How to Use This Repo:  
 1. Clone the repo:  
-   ```bash
-   git clone https://github.com/your-username.git
+   https://github.com/1saptarshi/PYTHON_STUDY.git
    ```  
 2. Navigate through folders based on topics 📂  
 3. Try out the coding exercises and projects 💻  

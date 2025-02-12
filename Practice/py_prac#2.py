@@ -108,3 +108,41 @@ myfunc()
 
 # Identify Data Types
 # Given the variables below, print their data types:
+
+x = 5
+y = 2.5
+z = "Hello"
+w = True
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(w))
+
+# Write a Python program to perform 
+# addition, subtraction, multiplication, and division 
+# using two numbers provided by the user.
+
+#answer
+
+num1 = float(input("Enter 1st number: "))  # Added a colon for better readability
+num2 = float(input("Enter 2nd number: "))  # Added a space for better formatting
+
+# Performing arithmetic operations
+addition = num1 + num2
+subtraction = num1 - num2
+multiplication = num1 * num2
+
+# Displaying results with labels
+print("Addition:", addition)
+print("Subtraction:", subtraction)
+print("Multiplication:", multiplication)
+
+# Number Type Conversion
+# Convert:
+
+# 10 into a float
+# 5.99 into an integer
+# "42" into an integer
+
+
+ 

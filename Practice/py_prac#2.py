@@ -58,3 +58,53 @@
 # Write a Python script that takes a number and returns its reverse.
 # Example: 123 → 321
 
+
+#######################################################################################
+
+# Simple Print Statement
+# Write a Python program to print "Hello, Python!".
+
+#answer
+
+print("Hello, Python!")
+
+# Declare and Print Variables
+# Assign your name to a variable and print it./
+
+#answer
+name ="saparshi"
+print(name)
+
+
+# Multiple Assignments
+# Assign "apple", "banana", and "cherry" to variables x, y, and z in a single line.
+#answer
+x , y , z =("apple","banana","cherry")
+print(x)
+print(y)
+print(z)
+
+# Swapping Two Variables
+# Swap the values of a and b without using a third variable.
+
+#answer
+
+a= 10
+b= 100
+
+a ,b = a,b
+
+print("a=",a,"b=",b)
+
+# Global Variable Usage
+# Create a global variable x inside a function and modify it.
+
+#answer
+
+def myfunc():
+    x=100
+    print("variable is :",x)
+myfunc()
+
+# Identify Data Types
+# Given the variables below, print their data types:

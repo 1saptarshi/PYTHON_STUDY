@@ -124,18 +124,18 @@ print(type(w))
 
 #answer
 
-num1 = float(input("Enter 1st number: "))  # Added a colon for better readability
-num2 = float(input("Enter 2nd number: "))  # Added a space for better formatting
+# num1 = float(input("Enter 1st number: "))  # Added a colon for better readability
+# num2 = float(input("Enter 2nd number: "))  # Added a space for better formatting
 
-# Performing arithmetic operations
-addition = num1 + num2
-subtraction = num1 - num2
-multiplication = num1 * num2
+# # Performing arithmetic operations
+# addition = num1 + num2
+# subtraction = num1 - num2
+# multiplication = num1 * num2
 
-# Displaying results with labels
-print("Addition:", addition)
-print("Subtraction:", subtraction)
-print("Multiplication:", multiplication)
+# # Displaying results with labels
+# print("Addition:", addition)
+# print("Subtraction:", subtraction)
+# print("Multiplication:", multiplication)
 
 # Number Type Conversion
 # Convert:
@@ -143,6 +143,13 @@ print("Multiplication:", multiplication)
 # 10 into a float
 # 5.99 into an integer
 # "42" into an integer
+
+ #Convert 10 into a Float
+num=10
+float_num =float(num)
+print(type(float_num))
+
+
 
 
  

@@ -66,3 +66,9 @@ print(text[5])  # Output: h
 
 
 #6. Looping Through a String
+
+#You can iterate through a string using a for loop.
+
+text = "Python"
+for char in text:
+    print(char)

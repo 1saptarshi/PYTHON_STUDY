@@ -65,3 +65,4 @@ print(text[3])  # Output: P
 print(text[5])  # Output: h
 
 
+#6. Looping Through a String

@@ -72,3 +72,16 @@ print(text[5])  # Output: h
 text = "Python"
 for char in text:
     print(char)
+
+    
+#7. String Length
+#Use the len() function to find the length of a string.
+text = "Hello, Python!"
+print(len(text))  # Output: 14
+
+#8. Check String (Substring Search)
+#Use the in keyword to check if a substring exists in a string.
+#Checking for a Substring
+text = "Python is fun"
+print("Python" in text)  # Output: True
+print("Java" in text)    # Output: False

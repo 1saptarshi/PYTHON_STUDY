@@ -85,3 +85,33 @@ print(len(text))  # Output: 14
 text = "Python is fun"
 print("Python" in text)  # Output: True
 print("Java" in text)    # Output: False
+
+
+#9. Check if NOT in String
+#Use not in to check if a substring is not in a string.
+#Checking if a String is NOT Present
+text = "Learning Python is fun"
+print("Java" not in text)  # Output: True
+print("Python" not in text)  # Output: False
+
+
+
+# Concept	                    Explanation                       	Example
+
+# Strings	           Sequence of characters in quotes	            "Hello"
+
+# Quotes Inside Quotes	Using different quotes or escape character	'It\'s sunny'
+
+# Assign to Variable	Store a string in a variable	msg = "Hello"
+
+# Multiline Strings	Use triple quotes for multiple lines	"""Line1\nLine2"""
+
+# Strings are Arrays	Access characters using index	s[0] → 'H'
+
+# Loop Through String	Iterate with for loop	for char in s:
+
+# String Length	Use len() to count characters	len("Hello") → 5
+
+# Check String	Use "substring" in string	"Py" in "Python"
+
+# Check if NOT 	Use "substring" not in string	"Java" not in "Python"

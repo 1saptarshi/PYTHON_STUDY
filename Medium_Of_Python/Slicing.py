@@ -60,4 +60,5 @@ print(text[::-1])  # Output: nohtyP
 # Get "yth"	text[1:4]	yth
 # Get last 3 chars	text[-3:]	hon
 # Reverse a string	text[::-1]	nohtyP
- 
+
+

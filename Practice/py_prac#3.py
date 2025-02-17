@@ -12,9 +12,7 @@
 # Multiline Strings:
 
 # Create a multiline string using triple quotes containing:
-# vbnet
-# Copy
-# Edit
+ 
 # Python is easy to learn.
 # It is powerful and flexible.
 # String as an Array:
@@ -104,4 +102,5 @@
 # Validate Email Address Format:
 
 # Write a function to check if a string is a valid email (e.g., "user@example.com").
+
 

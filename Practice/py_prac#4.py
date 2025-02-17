@@ -30,3 +30,5 @@ print(j)
 l= "This is a bad day"
 g=l.replace("bad","good")
 print(g)
+
+

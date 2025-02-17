@@ -12,3 +12,4 @@ print(y)
 v= "HELLO WORLD"
 z=y.lower()
 print(z)
+

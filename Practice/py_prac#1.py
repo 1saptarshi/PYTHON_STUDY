@@ -52,3 +52,39 @@ print(type(empty_value))  # Output: <class 'NoneType'>
 
 a= None
 print(type(a))
+
+
+a=100
+b=2
+print("Addition:", a + b)        
+print("Subtraction:", a - b)     
+print("Multiplication:", a * b)  
+print("Division:", a / b)        
+print("Floor Division:", a // b)  
+print("Modulus:", a % b)        
+print("Exponentiation:", a ** b)  
+
+
+s="hi"
+d="bro"
+r=s+" "+d
+print(r)
+
+
+cars=["BMW","BUGATTI","MClaren"]
+race=" ".join(cars)
+print(race)
+
+
+n="saptarshi"
+a=100
+info=f"my name is {n} and i am {a} year old men"
+
+print(info)
+
+
+name="aptarshi"
+planate="pluto"
+info="hi Buddy, my name is {} and i am from {}".format(name,planate)
+print(info)
+

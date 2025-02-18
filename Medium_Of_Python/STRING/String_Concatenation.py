@@ -49,3 +49,5 @@ version = 3.10
 text = "I love %s version %.1f" % (language, version)
 print(text)  # Output: I love Python version 3.1
 
+
+

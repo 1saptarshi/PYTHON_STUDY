@@ -62,3 +62,5 @@ text = "Python"
 print(f"Left:  [{text:<10}]")   # Output: Left:  [Python    ]
 print(f"Right: [{text:>10}]")   # Output: Right: [    Python]
 print(f"Center:[{text:^10}]")   # Output: Center:[  Python  ]
+
+

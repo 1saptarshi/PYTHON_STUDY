@@ -88,3 +88,27 @@ planate="pluto"
 info="hi Buddy, my name is {} and i am from {}".format(name,planate)
 print(info)
 
+
+ 
+x="1saptarshi"
+def myfunc():
+ x="sappt"
+print(x)
+myfunc()
+print(x)
+
+
+def func():
+   global x
+   x="1sappy"
+func()
+print(x)
+
+
+y = "earth"
+def mfunc():
+  global y 
+  y="pluto"
+mfunc()
+print(y)
+

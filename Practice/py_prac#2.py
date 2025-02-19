@@ -152,6 +152,8 @@ print(type(float_num))
 
 
 
-s=int(input("enter your name"))
-print(type(s))
+# s=int(input("enter your name"))
+# print(type(s))
+
+
 

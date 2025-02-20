@@ -112,3 +112,11 @@ def mfunc():
 mfunc()
 print(y)
 
+s="sappy"
+print(s.swapcase())
+
+
+
+
+s="sappy"
+print(s.find())

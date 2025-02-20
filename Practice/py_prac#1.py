@@ -120,3 +120,6 @@ print(s.swapcase())
 
 s="sappy"
 print(s.find())
+
+
+print(10>5)

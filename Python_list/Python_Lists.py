@@ -1,11 +1,4 @@
-# **Python Lists: Complete Guide with Code Examples**
 
-# Python **lists** are **ordered, mutable (changeable),
-# and allow duplicate values**. 
-# Lists can hold different data types 
-# and are one of the most versatile data structures in Python.
-
- 
 
 ## **1. Creating Lists**
 # A list is defined using square brackets `[]`:

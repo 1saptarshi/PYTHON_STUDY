@@ -1,9 +1,4 @@
-# **Python Tuples: Complete Guide with Code Examples**
-
-# A **tuple** is an **ordered, immutable (unchangeable),
-# and allows duplicate values** collection in Python.
-# Tuples are similar to lists but **cannot be modified** after creation.
-
+ 
  
 ## **1. Creating Tuples**
 # A tuple is created using **parentheses `()`**.

@@ -1,3 +1,6 @@
+from turtle import reset
+
+
 car=("bmw","bugatti","jaguar","mclaren","gtr")
 cars=list(car)
 cars[2]="kawashaki"
@@ -44,5 +47,20 @@ print(num.count(7))
 num =(1,2,3,4,7,7,7,78,8,8,8,8,9)
 print(num.index(8))
 
+def calculate(x,y):
+    sm=x+y
+    sub=x-y
+    return sm , sub 
+reset=calculate(12,34)
+print(reset)
+print(reset[0])
+print(reset[1])
 
- 
+
+def calculate(a,b):
+    s=a+b
+    d=a-b
+    return s,d
+r=calculate(12,5)
+print(r)
+

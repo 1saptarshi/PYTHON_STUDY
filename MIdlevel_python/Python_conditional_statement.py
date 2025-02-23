@@ -38,7 +38,7 @@ if age >= 18:
 else:
     print("You are not eligible to vote.")
  
-# ✅ Output: `You are not eligible to vote.`  
+# ✅ Output: `You are not eligible to vote.
 
  
 ## **4. The `if-elif-else` Statement**  

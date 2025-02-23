@@ -154,9 +154,8 @@ print(person_copy)
 person_copy = dict(person)
 print(person_copy)  
  
-# ✅ **Avoid using `=` as it creates a reference instead of a new copy.**
+#✅ **Avoid using `=` as it creates a reference instead of a new copy.**
  
-
 ## **8. Nested Dictionaries**
 # Dictionaries can contain other dictionaries.
  
@@ -166,8 +165,6 @@ students = {
 }
 
 print(students["student1"]["name"])  # Output: Alice
- 
- 
 
 ## **10. Dictionary Comprehension**
 # Python allows **short-hand** dictionary creation.

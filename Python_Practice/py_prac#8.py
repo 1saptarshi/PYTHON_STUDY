@@ -25,6 +25,20 @@ del edy["date"]
 edy.popitem()
 
 
-print(edy)
 
+edl=dict(name="saptarshi",age=100,date=23,plannet="pluto")
+for key in edl:
+ 
+ 
+ print(key)
+edp=dict(name="saptarshi",age=100,date=23,plannet="pluto")
+for value in edp.values():
+ print(value)
+
+ edk=dict(name="saptarshi",age=100,date=23,plannet="pluto")
+
+ for key,value in edk.items():
+  print(key,value)
+print("name" in edk)
+print("city"in edk)
 

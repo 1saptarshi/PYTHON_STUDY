@@ -44,3 +44,12 @@ if 10:
     print("This will print.")
 
 
+# a=int(input("enter your ID:"))
+# b=str(input("enter your name:"))
+a=90
+b=True
+if a>=20 and b:
+    print("you can enter our plannet")
+
+else:
+    print("entry denied")

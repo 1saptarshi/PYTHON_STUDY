@@ -24,3 +24,18 @@ del phone[3]
 print(phone)
 
 
+day = "Sunday"
+
+if day == "Saturday" or day == "Sunday":
+    print("It's the weekend!")
+else:
+    print("It's a weekday.")
+
+
+
+day = "sunday"
+
+if day=="sunday" or day =="funday":
+    print("hurrey! its weekend")
+else:
+    print("itsfunday")

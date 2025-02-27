@@ -102,7 +102,7 @@ else:
     print("Loop finished!")
  
 # **Output:**
- ``
+ 
 # Count: 1
 # Count: 2
 # Count: 3
@@ -111,7 +111,7 @@ else:
 
 ## **7. `while` Loop with User Input**
  
-password = ""
+password = " "
 
 while password != "python123":
     password = input("Enter password: ")

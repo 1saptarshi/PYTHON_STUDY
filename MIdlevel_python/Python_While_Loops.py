@@ -102,7 +102,7 @@ else:
     print("Loop finished!")
  
 # **Output:**
-# ```
+ ``
 # Count: 1
 # Count: 2
 # Count: 3
@@ -167,7 +167,7 @@ number = 0
 while number != 5:
     number = random.randint(1, 10)
     print("Generated number:", number)
-# ```
+ 
 # ✅ The loop **keeps running** until `5` is generated.
  
 

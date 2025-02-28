@@ -18,4 +18,10 @@ chu = 0
 while chu <=2:
    chu+=1
    if chu ==3:
-      print("count:",chu)
+      continue
+print("count:",chu)
+
+
+
+
+

@@ -13,9 +13,8 @@
 
  
 
-## **2. Basic `while` Loop Example**
- 
-count = 1
+## **2. Basic `while` Loop Example**vb 
+count = 1                                                                                                               
 
 while count <= 5:
     print("Iteration:", count)
@@ -111,14 +110,14 @@ else:
 
 ## **7. `while` Loop with User Input**
  
-password = " "
+password =""
 
 while password != "python123":
     password = input("Enter password: ")
 
 print("Access granted!")
  
-# ✅ The loop **keeps running** until the user enters `"python123"`.  
+# ✅ The loop **keeps running** until the user enters `"python123"`. 
  
 
 ## **8. Using `while` Loop for List Iteration**

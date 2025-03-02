@@ -164,6 +164,7 @@ copy2 = list(fruits)
 copy3 = fruits.copy()
 
 print(copy1, copy2, copy3)
+
  
 
 ## **11. Joining Two Lists**

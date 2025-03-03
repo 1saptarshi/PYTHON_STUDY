@@ -11,3 +11,12 @@
 # Write a function that returns a tuple (sum, product) of two numbers.
 # Merge two tuples and sort them.
 # Convert a list of tuples [(1, 2), (3, 4), (5, 6)] into a dictionary {1: 2, 3: 4, 5: 6}.
+
+
+fruits = ("apple", "banana", "cherry")
+
+ 
+print(fruits[2])   
+print(fruits[-2])  
+print(fruits[-1]) 
+print(fruits[+2]) 

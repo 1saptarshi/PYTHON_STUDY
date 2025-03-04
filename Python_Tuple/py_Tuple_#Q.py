@@ -20,3 +20,10 @@ print(fruits[2])
 print(fruits[-2])  
 print(fruits[-1]) 
 print(fruits[+2]) 
+
+numbers = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
+
+print(numbers[2:6])  # Output: (2, 3, 4, 5)
+print(numbers[:4])   # Output: (0, 1, 2, 3)
+print(numbers[5:])   # Output: (5, 6, 7, 8, 9)
+print(numbers[-3:])  # Output: (7, 8, 9)

@@ -131,7 +131,7 @@ for key, value in person.items():
 # **Output:**
  
 # name : Alice
-# age : 25
+# age   : 25
 # city : New York
  
  
@@ -174,3 +174,6 @@ squares = {x: x*x for x in range(1, 6)}
 print(squares)  
 # Output: {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
  
+
+
+ #zip funtion
